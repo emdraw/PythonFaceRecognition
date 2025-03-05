@@ -1,4 +1,5 @@
 Detector de rostros con OpenCV y Haar Cascades
+
 Este proyecto detecta rostros en tiempo real utilizando una cámara web. Está desarrollado en Python y utiliza la librería OpenCV junto con el clasificador preentrenado Haar Cascades para la detección de rostros.
 
 Características principales
