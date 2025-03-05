@@ -20,8 +20,10 @@ Clona este repositorio en tu máquina local:
 
 bash
 Copy
-git clone https://github.com/tu-usuario/detector-rostros-opencv.git
+git clone https://github.com/emdraw/PythonFaceRecognition.git
+
 cd detector-rostros-opencv
+
 Instala las dependencias necesarias:
 
 bash
